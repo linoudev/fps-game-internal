@@ -16,4 +16,6 @@ paste it in the same directory as the "src" folder  <img width="743" height="190
 
 and then compile and it should work!
 
+inject the compiled dll in teh game (use process hacker too)
+
 menu doesn't show in lobby so you'll know if it worked only when in game
