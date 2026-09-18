@@ -73,7 +73,7 @@ void RunExploits()
         if (mx > 0.f)
         {
             lc->HealthComponent->MaxHP = 99999.f;
-            lc->HealthComponent->HP = 99999.f;
+            lc->HealthComponent->HP = 67676.f;
         }
     }
 
